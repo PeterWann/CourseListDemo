@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Test";
+}
+
+<label for="deegree">Vælg et deegree</label>
+<br/>
+@using (Html.BeginForm("Index", "CourseLists", FormMethod.Post))
+{
+    <label for="deegree">Deegree Id:</label>
+        <input type="number" id="deegree" name="deegree">
+        <input type="submit">
+}
