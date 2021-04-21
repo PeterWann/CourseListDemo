@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JLD0o3AtSuUpNbZsEcSRKXWr3ix497m5ilaBus8wgbz7zedc1PY14YO5K7TQpxRZXa4c/Tn76zUPWbtW8h6CLA==",
+  "dgSpecHash": "M8YMKAtnxHc83qFZ5nXvDRpxeYXbhtvU1EJfyPPek7HUyGo3zhrVuJXYikqFyHh9sdv401aSiOsyEzRkwBo3VQ==",
   "success": true,
-  "projectFilePath": "C:\\IKT\\GUI\\CourseList_Demo\\CourseList_Demo\\CourseList_Demo.csproj",
+  "projectFilePath": "C:\\IKT\\GUI\\CourseList_Demo\\CourseListDemo\\CourseList_Demo\\CourseList_Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Peter\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Peter\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

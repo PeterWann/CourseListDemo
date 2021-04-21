@@ -7476,11 +7476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\IKT\\GUI\\CourseList_Demo\\CourseList_Demo\\CourseList_Demo.csproj",
+      "projectUniqueName": "C:\\IKT\\GUI\\CourseList_Demo\\CourseListDemo\\CourseList_Demo\\CourseList_Demo.csproj",
       "projectName": "CourseList_Demo",
-      "projectPath": "C:\\IKT\\GUI\\CourseList_Demo\\CourseList_Demo\\CourseList_Demo.csproj",
+      "projectPath": "C:\\IKT\\GUI\\CourseList_Demo\\CourseListDemo\\CourseList_Demo\\CourseList_Demo.csproj",
       "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-      "outputPath": "C:\\IKT\\GUI\\CourseList_Demo\\CourseList_Demo\\obj\\",
+      "outputPath": "C:\\IKT\\GUI\\CourseList_Demo\\CourseListDemo\\CourseList_Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
